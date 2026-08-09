@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sanjeet+Kumar;Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Practitioner+%7C+Targeting+SDE-1)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Sanjeet+Kumar;Java+Backend+Developer+%7C+Spring+Boot+Enthusiast;DSA+Practitioner+%7C+Targeting+SDE-1;Actively+Looking+for+Software+Engineering+Internships)](https://git.io/typing-svg)
 ---
 
 ## 👨‍💻 About Me
